@@ -1,2 +1,2 @@
-## Software de Gestión de Residuos
+## Software de Gestión de Residuos 🪴
 
