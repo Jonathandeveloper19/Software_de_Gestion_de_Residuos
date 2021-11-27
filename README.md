@@ -1,4 +1,4 @@
-## Software de Gestión de Residuos 🪴
+## Software de Gestión de Residuos 🍀
 Diseño, Desarrollo e Implementación de un Software de Gestión de Residuos para la Fundación ECOTEC, Copyright ©ECOTEC. <br />
 Desarrollado con <b>HTML, CSS, JS, AJAX, PHP, MDBOOTSTRAP.</b> <br />
 Otros recursos: <b>PHPMAILER, MPDF.</b>
