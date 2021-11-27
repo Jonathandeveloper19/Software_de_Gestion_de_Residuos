@@ -1,3 +1,4 @@
+<img width="954" alt="Pdf generado" src="https://user-images.githubusercontent.com/77124647/143721300-aa7ba406-2b1e-4f9d-874f-eaae4734b551.png">
 ## Software de Gestión de Residuos 🍀
 Diseño, Desarrollo e Implementación de un Software de Gestión de Residuos para la Fundación ECOTEC <br />
 Desarrollado con <b>HTML, CSS, JS, AJAX, PHP, JQUERY, CANVAS, MDBOOTSTRAP, MYSQL.</b> <br />
